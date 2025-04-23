@@ -1,2 +1,2 @@
-# my-first-project
-my first project in github
+# Development Environment Setup
+# Hardhat and foundry environment and the differences in local IDE
